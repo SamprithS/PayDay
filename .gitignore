@@ -1,0 +1,18 @@
+# ===== BACKEND =====
+PayDay-backend/target/
+PayDay-backend/.mvn/wrapper/maven-wrapper.jar
+PayDay-backend/*.jar
+PayDay-backend/*.war
+PayDay-backend/.env
+
+# ===== FRONTEND =====
+PayDay-frontend/node_modules/
+PayDay-frontend/dist/
+PayDay-frontend/.angular/
+PayDay-frontend/.env
+
+# ===== IDE =====
+.idea/
+*.iml
+.vscode/
+.DS_Store
