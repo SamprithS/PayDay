@@ -16,3 +16,5 @@ PayDay-frontend/.env
 *.iml
 .vscode/
 .DS_Store
+
+PayDay-backend/src/main/resources/application-local.properties
